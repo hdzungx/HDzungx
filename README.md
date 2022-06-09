@@ -7,7 +7,7 @@
 ### Contact me | 
 
 
-- GitHub | GitHub : [Github@hddung291](https://github.com/hddung291)
+- GitHub | GitHub : [Github@hdzungx](https://github.com/hdzungx)
 
 
 <!--
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![HDzungx's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hddung291&theme=vue)
-![HDzungx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hddung291&theme=vue)
+![HDzungx's Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hdzungx&theme=vue)
+![HDzungx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdzungx&theme=vue)
